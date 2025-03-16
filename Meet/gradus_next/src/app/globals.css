@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+    --primary-bg: #1e2329; /* Example dark blue background */
+}
+
+body {
+    background-color: var(--primary-bg);
+}
